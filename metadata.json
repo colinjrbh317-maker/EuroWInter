@@ -1,0 +1,8 @@
+{
+  "name": "EuroTravel Logbook",
+  "description": "A premium all-in-one travel companion for a winter trip to Germany and Austria, featuring real-time weather, maps-based itinerary tracking, a journaling system with voice input, and an interactive packing list.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
